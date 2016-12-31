@@ -1,2 +1,2 @@
-#ife.baidu.com
-Begin 2016-12-30
+#GO
+About: [IFE-Baidu](http://ife.baidu.com)
